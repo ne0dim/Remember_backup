@@ -1,0 +1,9 @@
+1
+7
+images/action_addnote.png
+images/action_editnote.png
+images/background.png
+main.qml
+NoteEditor.qml
+NoteViewer.qml
+ViewerField.qml
